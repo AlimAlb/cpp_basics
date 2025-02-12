@@ -1,0 +1,9 @@
+a
+b
+C
+d
+
+Shift
+Ctrl+X
+Down
+Ctrl+V
